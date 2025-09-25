@@ -1,0 +1,14 @@
+C:\Users\Keth\Documents\trabalho twitter\obj\Debug\net9.0\trabalho twitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keth\Documents\trabalho twitter\obj\Debug\net9.0\trabalho twitter.AssemblyInfoInputs.cache
+C:\Users\Keth\Documents\trabalho twitter\obj\Debug\net9.0\trabalho twitter.AssemblyInfo.cs
+C:\Users\Keth\Documents\trabalho twitter\obj\Debug\net9.0\trabalho twitter.csproj.CoreCompileInputs.cache
+C:\Users\Keth\Documents\trabalho twitter\bin\Debug\net9.0\trabalho twitter.exe
+C:\Users\Keth\Documents\trabalho twitter\bin\Debug\net9.0\trabalho twitter.deps.json
+C:\Users\Keth\Documents\trabalho twitter\bin\Debug\net9.0\trabalho twitter.runtimeconfig.json
+C:\Users\Keth\Documents\trabalho twitter\bin\Debug\net9.0\trabalho twitter.dll
+C:\Users\Keth\Documents\trabalho twitter\bin\Debug\net9.0\trabalho twitter.pdb
+C:\Users\Keth\Documents\trabalho twitter\obj\Debug\net9.0\trabalho twitter.dll
+C:\Users\Keth\Documents\trabalho twitter\obj\Debug\net9.0\refint\trabalho twitter.dll
+C:\Users\Keth\Documents\trabalho twitter\obj\Debug\net9.0\trabalho twitter.pdb
+C:\Users\Keth\Documents\trabalho twitter\obj\Debug\net9.0\trabalho twitter.genruntimeconfig.cache
+C:\Users\Keth\Documents\trabalho twitter\obj\Debug\net9.0\ref\trabalho twitter.dll
